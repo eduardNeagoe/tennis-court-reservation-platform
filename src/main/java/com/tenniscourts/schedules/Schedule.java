@@ -33,7 +33,7 @@ public class Schedule extends BaseEntity<Long> {
     @NotNull
     private LocalDateTime endDateTime;
 
-    @OneToMany(fetch = FetchType.EAGER, cascade = CascadeType.ALL, mappedBy = "reservation")
+    @OneToMany(fetch = FetchType.EAGER, cascade = CascadeType.ALL, mappedBy = "schedule")
     private List<Reservation> reservations;
 
     public void addReservation(Reservation reservation) {
