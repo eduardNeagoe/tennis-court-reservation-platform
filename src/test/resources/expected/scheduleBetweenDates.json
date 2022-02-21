@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "tennisCourt": {
+      "id": 1,
+      "name": "Roland Garros - Court Philippe-Chatrier"
+    },
+    "startDateTime": "2023-12-20T20:00",
+    "endDateTime": "2023-02-20T21:00"
+  },
+  {
+    "id": 2,
+    "tennisCourt": {
+      "id": 1,
+      "name": "Roland Garros - Court Philippe-Chatrier"
+    },
+    "startDateTime": "2023-10-20T20:00",
+    "endDateTime": "2023-10-20T21:00"
+  },
+  {
+    "id": 3,
+    "tennisCourt": {
+      "id": 1,
+      "name": "Roland Garros - Court Philippe-Chatrier"
+    },
+    "startDateTime": "2024-10-20T20:00",
+    "endDateTime": "2024-10-20T21:00"
+  }
+]
