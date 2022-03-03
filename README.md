@@ -1,6 +1,6 @@
 # Tenis Court Reservation Platform
 
-## This is a RESTful microservice built with Spring Boot providing 
+## This is a RESTful microservice built with Spring Boot and Spring Data JPA. 
 
 ### Detailed tech stack:
 
