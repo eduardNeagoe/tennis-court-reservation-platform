@@ -6,7 +6,6 @@
 
 - Spring Boot
 - Spring Data JPA for interacting with data
-- Graddle as a build tool
 - Swagger for documenting the REST endpoints
 - H2 Database for in-memory database
 - Lombok for logging and for eliminating boilerplate POJO coding
